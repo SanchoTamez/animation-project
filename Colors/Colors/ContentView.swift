@@ -12,6 +12,7 @@ struct ContentView: View {
     @State private var buttonPressed = false
     @State private var temp: Int = Int.random(in: -20...100)
     @State private var message: String = " "
+    @State private var icon: String = " "
     
     var body: some View {
         VStack {
@@ -25,13 +26,13 @@ struct ContentView: View {
                 .foregroundStyle(.white)
             Button("set weather") {
                 temp = Int.random(in: -20...100)
-                message = "The temperature is \(temp) degrees"
+                makeMessage()
                 print("\(temp)")
                 print(message)
                 buttonPressed.toggle()
-                    
                 
-            
+                
+                
                 
             }
             .padding(10)
@@ -42,9 +43,56 @@ struct ContentView: View {
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(LinearGradient(colors: [.white, .blue], startPoint: .topLeading, endPoint: .bottomTrailing))
+        .sheet(isPresented: $buttonPressed) { [temp, message] in
+            
+            NavigationStack    {
+                
+                VStack {
+                    Image(systemName: icon)
+                        .font(.system(size: 200, design: .rounded))
+                    Text("\(temp)")
+                        .font(.system(size: 200, design: .rounded))
+                    Text(message)
+                }
+                .navigationTitle(Text("Weather"))
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    ToolbarItem(placement: .topBarTrailing) {
+                            Button("Close") {
+                            buttonPressed.toggle()
+                        }
+                    }
+                }
+                
+            }
+            
+            
+        }
         
-    
     }
+    
+    func makeMessage() {
+        if temp > 90 {
+            message = "it is hot"
+            icon =  "sun.max"
+        } else if temp > 60 {
+            message = "it is pleasent"
+            icon =  "cloud.sun"
+        }else if temp > 32 {
+            message = "it is brisk"
+            icon =  "wind.snow"
+        } else if temp > 0 {
+            message = "brr! bundle up!"
+            icon =  "cloud.snow"
+        }    else {
+            message = "you should consider moving!"
+            icon =  "tropicalstorm"
+        }
+        
+    }
+    
+    
+    
 }
 
 #Preview {
