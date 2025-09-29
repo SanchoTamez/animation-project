@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  animation project
+//  enum
 //
-//  Created by Tamez, Elan - Student on 9/25/25.
+//  Created by Tamez, Elan - Student on 9/26/25.
 //
 
 import SwiftUI

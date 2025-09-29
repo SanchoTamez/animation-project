@@ -7,63 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		6078182A2E871FEE003F4902 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 607818142E871FEC003F4902 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
-			remoteInfo = "animation project";
+			remoteGlobalIDString = 6078181B2E871FEC003F4902;
+			remoteInfo = Colors;
 		};
-		606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		607818342E871FEE003F4902 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 607818142E871FEC003F4902 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
-			remoteInfo = "animation project";
+			remoteGlobalIDString = 6078181B2E871FEC003F4902;
+			remoteInfo = Colors;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		606CA8272E85DC0800D5B4A1 /* animation project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "animation project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "animation project.xcodeproj"; sourceTree = "<group>"; };
+		6078181C2E871FEC003F4902 /* Colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		607818292E871FEE003F4902 /* ColorsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		607818332E871FEE003F4902 /* ColorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		606CA8292E85DC0800D5B4A1 /* animation project */ = {
+		6078181E2E871FEC003F4902 /* Colors */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation project";
+			path = Colors;
 			sourceTree = "<group>";
 		};
-		606CA8372E85DC0C00D5B4A1 /* animation projectTests */ = {
+		6078182C2E871FEE003F4902 /* ColorsTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation projectTests";
+			path = ColorsTests;
 			sourceTree = "<group>";
 		};
-		606CA8412E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		607818362E871FEE003F4902 /* ColorsUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation projectUITests";
+			path = ColorsUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		606CA8242E85DC0800D5B4A1 /* Frameworks */ = {
+		607818192E871FEC003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8312E85DC0C00D5B4A1 /* Frameworks */ = {
+		607818262E871FEE003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83B2E85DC0C00D5B4A1 /* Frameworks */ = {
+		607818302E871FEE003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -73,29 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		606CA81E2E85DC0800D5B4A1 = {
+		607818132E871FEC003F4902 = {
 			isa = PBXGroup;
 			children = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
-				606CA8282E85DC0800D5B4A1 /* Products */,
+				6078181E2E871FEC003F4902 /* Colors */,
+				6078182C2E871FEE003F4902 /* ColorsTests */,
+				607818362E871FEE003F4902 /* ColorsUITests */,
+				6078181D2E871FEC003F4902 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		606CA8282E85DC0800D5B4A1 /* Products */ = {
+		6078181D2E871FEC003F4902 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				606CA8272E85DC0800D5B4A1 /* animation project.app */,
-				606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */,
-				606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		606CA88E2E85DD4100D5B4A1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
+				6078181C2E871FEC003F4902 /* Colors.app */,
+				607818292E871FEE003F4902 /* ColorsTests.xctest */,
+				607818332E871FEE003F4902 /* ColorsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,140 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		606CA8262E85DC0800D5B4A1 /* animation project */ = {
+		6078181B2E871FEC003F4902 /* Colors */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */;
+			buildConfigurationList = 6078183D2E871FEE003F4902 /* Build configuration list for PBXNativeTarget "Colors" */;
 			buildPhases = (
-				606CA8232E85DC0800D5B4A1 /* Sources */,
-				606CA8242E85DC0800D5B4A1 /* Frameworks */,
-				606CA8252E85DC0800D5B4A1 /* Resources */,
+				607818182E871FEC003F4902 /* Sources */,
+				607818192E871FEC003F4902 /* Frameworks */,
+				6078181A2E871FEC003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
+				6078181E2E871FEC003F4902 /* Colors */,
 			);
-			name = "animation project";
+			name = Colors;
 			packageProductDependencies = (
 			);
-			productName = "animation project";
-			productReference = 606CA8272E85DC0800D5B4A1 /* animation project.app */;
+			productName = Colors;
+			productReference = 6078181C2E871FEC003F4902 /* Colors.app */;
 			productType = "com.apple.product-type.application";
 		};
-		606CA8332E85DC0C00D5B4A1 /* animation projectTests */ = {
+		607818282E871FEE003F4902 /* ColorsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */;
+			buildConfigurationList = 607818402E871FEE003F4902 /* Build configuration list for PBXNativeTarget "ColorsTests" */;
 			buildPhases = (
-				606CA8302E85DC0C00D5B4A1 /* Sources */,
-				606CA8312E85DC0C00D5B4A1 /* Frameworks */,
-				606CA8322E85DC0C00D5B4A1 /* Resources */,
+				607818252E871FEE003F4902 /* Sources */,
+				607818262E871FEE003F4902 /* Frameworks */,
+				607818272E871FEE003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				6078182B2E871FEE003F4902 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
+				6078182C2E871FEE003F4902 /* ColorsTests */,
 			);
-			name = "animation projectTests";
+			name = ColorsTests;
 			packageProductDependencies = (
 			);
-			productName = "animation projectTests";
-			productReference = 606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */;
+			productName = ColorsTests;
+			productReference = 607818292E871FEE003F4902 /* ColorsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		607818322E871FEE003F4902 /* ColorsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */;
+			buildConfigurationList = 607818432E871FEE003F4902 /* Build configuration list for PBXNativeTarget "ColorsUITests" */;
 			buildPhases = (
-				606CA83A2E85DC0C00D5B4A1 /* Sources */,
-				606CA83B2E85DC0C00D5B4A1 /* Frameworks */,
-				606CA83C2E85DC0C00D5B4A1 /* Resources */,
+				6078182F2E871FEE003F4902 /* Sources */,
+				607818302E871FEE003F4902 /* Frameworks */,
+				607818312E871FEE003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				607818352E871FEE003F4902 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
+				607818362E871FEE003F4902 /* ColorsUITests */,
 			);
-			name = "animation projectUITests";
+			name = ColorsUITests;
 			packageProductDependencies = (
 			);
-			productName = "animation projectUITests";
-			productReference = 606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */;
+			productName = ColorsUITests;
+			productReference = 607818332E871FEE003F4902 /* ColorsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		606CA81F2E85DC0800D5B4A1 /* Project object */ = {
+		607818142E871FEC003F4902 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					606CA8262E85DC0800D5B4A1 = {
+					6078181B2E871FEC003F4902 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					606CA8332E85DC0C00D5B4A1 = {
+					607818282E871FEE003F4902 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 6078181B2E871FEC003F4902;
 					};
-					606CA83D2E85DC0C00D5B4A1 = {
+					607818322E871FEE003F4902 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 6078181B2E871FEC003F4902;
 					};
 				};
 			};
-			buildConfigurationList = 606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */;
+			buildConfigurationList = 607818172E871FEC003F4902 /* Build configuration list for PBXProject "Colors" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 606CA81E2E85DC0800D5B4A1;
+			mainGroup = 607818132E871FEC003F4902;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 606CA8282E85DC0800D5B4A1 /* Products */;
+			productRefGroup = 6078181D2E871FEC003F4902 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 606CA88E2E85DD4100D5B4A1 /* Products */;
-					ProjectRef = 606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				606CA8262E85DC0800D5B4A1 /* animation project */,
-				606CA8332E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */,
+				6078181B2E871FEC003F4902 /* Colors */,
+				607818282E871FEE003F4902 /* ColorsTests */,
+				607818322E871FEE003F4902 /* ColorsUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		606CA8252E85DC0800D5B4A1 /* Resources */ = {
+		6078181A2E871FEC003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8322E85DC0C00D5B4A1 /* Resources */ = {
+		607818272E871FEE003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83C2E85DC0C00D5B4A1 /* Resources */ = {
+		607818312E871FEE003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -246,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		606CA8232E85DC0800D5B4A1 /* Sources */ = {
+		607818182E871FEC003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8302E85DC0C00D5B4A1 /* Sources */ = {
+		607818252E871FEE003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83A2E85DC0C00D5B4A1 /* Sources */ = {
+		6078182F2E871FEE003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -270,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		6078182B2E871FEE003F4902 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 6078181B2E871FEC003F4902 /* Colors */;
+			targetProxy = 6078182A2E871FEE003F4902 /* PBXContainerItemProxy */;
 		};
-		606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		607818352E871FEE003F4902 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 6078181B2E871FEC003F4902 /* Colors */;
+			targetProxy = 607818342E871FEE003F4902 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		606CA8462E85DC0C00D5B4A1 /* Debug */ = {
+		6078183B2E871FEE003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		606CA8472E85DC0C00D5B4A1 /* Release */ = {
+		6078183C2E871FEE003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -404,7 +390,7 @@
 			};
 			name = Release;
 		};
-		606CA8492E85DC0C00D5B4A1 /* Debug */ = {
+		6078183E2E871FEE003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -424,7 +410,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-project";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.Colors;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -432,7 +418,7 @@
 			};
 			name = Debug;
 		};
-		606CA84A2E85DC0C00D5B4A1 /* Release */ = {
+		6078183F2E871FEE003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -452,7 +438,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-project";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.Colors;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -460,7 +446,7 @@
 			};
 			name = Release;
 		};
-		606CA84C2E85DC0C00D5B4A1 /* Debug */ = {
+		607818412E871FEE003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -470,16 +456,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.ColorsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/animation project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/animation project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Colors.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Colors";
 			};
 			name = Debug;
 		};
-		606CA84D2E85DC0C00D5B4A1 /* Release */ = {
+		607818422E871FEE003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,16 +475,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.ColorsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/animation project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/animation project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Colors.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Colors";
 			};
 			name = Release;
 		};
-		606CA84F2E85DC0C00D5B4A1 /* Debug */ = {
+		607818442E871FEE003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -506,16 +492,16 @@
 				DEVELOPMENT_TEAM = W9Z3CDZK39;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.ColorsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "animation project";
+				TEST_TARGET_NAME = Colors;
 			};
 			name = Debug;
 		};
-		606CA8502E85DC0C00D5B4A1 /* Release */ = {
+		607818452E871FEE003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -523,55 +509,55 @@
 				DEVELOPMENT_TEAM = W9Z3CDZK39;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.ColorsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "animation project";
+				TEST_TARGET_NAME = Colors;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */ = {
+		607818172E871FEC003F4902 /* Build configuration list for PBXProject "Colors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8462E85DC0C00D5B4A1 /* Debug */,
-				606CA8472E85DC0C00D5B4A1 /* Release */,
+				6078183B2E871FEE003F4902 /* Debug */,
+				6078183C2E871FEE003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */ = {
+		6078183D2E871FEE003F4902 /* Build configuration list for PBXNativeTarget "Colors" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8492E85DC0C00D5B4A1 /* Debug */,
-				606CA84A2E85DC0C00D5B4A1 /* Release */,
+				6078183E2E871FEE003F4902 /* Debug */,
+				6078183F2E871FEE003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */ = {
+		607818402E871FEE003F4902 /* Build configuration list for PBXNativeTarget "ColorsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84C2E85DC0C00D5B4A1 /* Debug */,
-				606CA84D2E85DC0C00D5B4A1 /* Release */,
+				607818412E871FEE003F4902 /* Debug */,
+				607818422E871FEE003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */ = {
+		607818432E871FEE003F4902 /* Build configuration list for PBXNativeTarget "ColorsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84F2E85DC0C00D5B4A1 /* Debug */,
-				606CA8502E85DC0C00D5B4A1 /* Release */,
+				607818442E871FEE003F4902 /* Debug */,
+				607818452E871FEE003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+	rootObject = 607818142E871FEC003F4902 /* Project object */;
 }

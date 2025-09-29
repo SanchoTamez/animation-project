@@ -7,63 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		6078185D2E87361E003F4902 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 607818472E87361B003F4902 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
-			remoteInfo = "animation project";
+			remoteGlobalIDString = 6078184E2E87361B003F4902;
+			remoteInfo = enum;
 		};
-		606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		607818672E87361E003F4902 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 607818472E87361B003F4902 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
-			remoteInfo = "animation project";
+			remoteGlobalIDString = 6078184E2E87361B003F4902;
+			remoteInfo = enum;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		606CA8272E85DC0800D5B4A1 /* animation project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "animation project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "animation project.xcodeproj"; sourceTree = "<group>"; };
+		6078184F2E87361B003F4902 /* enum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = enum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6078185C2E87361E003F4902 /* enumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = enumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		607818662E87361E003F4902 /* enumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = enumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		606CA8292E85DC0800D5B4A1 /* animation project */ = {
+		607818512E87361B003F4902 /* enum */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation project";
+			path = enum;
 			sourceTree = "<group>";
 		};
-		606CA8372E85DC0C00D5B4A1 /* animation projectTests */ = {
+		6078185F2E87361E003F4902 /* enumTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation projectTests";
+			path = enumTests;
 			sourceTree = "<group>";
 		};
-		606CA8412E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		607818692E87361E003F4902 /* enumUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "animation projectUITests";
+			path = enumUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		606CA8242E85DC0800D5B4A1 /* Frameworks */ = {
+		6078184C2E87361B003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8312E85DC0C00D5B4A1 /* Frameworks */ = {
+		607818592E87361E003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83B2E85DC0C00D5B4A1 /* Frameworks */ = {
+		607818632E87361E003F4902 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -73,29 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		606CA81E2E85DC0800D5B4A1 = {
+		607818462E87361B003F4902 = {
 			isa = PBXGroup;
 			children = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
-				606CA8282E85DC0800D5B4A1 /* Products */,
+				607818512E87361B003F4902 /* enum */,
+				6078185F2E87361E003F4902 /* enumTests */,
+				607818692E87361E003F4902 /* enumUITests */,
+				607818502E87361B003F4902 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		606CA8282E85DC0800D5B4A1 /* Products */ = {
+		607818502E87361B003F4902 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				606CA8272E85DC0800D5B4A1 /* animation project.app */,
-				606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */,
-				606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		606CA88E2E85DD4100D5B4A1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
+				6078184F2E87361B003F4902 /* enum.app */,
+				6078185C2E87361E003F4902 /* enumTests.xctest */,
+				607818662E87361E003F4902 /* enumUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,140 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		606CA8262E85DC0800D5B4A1 /* animation project */ = {
+		6078184E2E87361B003F4902 /* enum */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */;
+			buildConfigurationList = 607818702E87361E003F4902 /* Build configuration list for PBXNativeTarget "enum" */;
 			buildPhases = (
-				606CA8232E85DC0800D5B4A1 /* Sources */,
-				606CA8242E85DC0800D5B4A1 /* Frameworks */,
-				606CA8252E85DC0800D5B4A1 /* Resources */,
+				6078184B2E87361B003F4902 /* Sources */,
+				6078184C2E87361B003F4902 /* Frameworks */,
+				6078184D2E87361B003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
+				607818512E87361B003F4902 /* enum */,
 			);
-			name = "animation project";
+			name = enum;
 			packageProductDependencies = (
 			);
-			productName = "animation project";
-			productReference = 606CA8272E85DC0800D5B4A1 /* animation project.app */;
+			productName = enum;
+			productReference = 6078184F2E87361B003F4902 /* enum.app */;
 			productType = "com.apple.product-type.application";
 		};
-		606CA8332E85DC0C00D5B4A1 /* animation projectTests */ = {
+		6078185B2E87361E003F4902 /* enumTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */;
+			buildConfigurationList = 607818732E87361E003F4902 /* Build configuration list for PBXNativeTarget "enumTests" */;
 			buildPhases = (
-				606CA8302E85DC0C00D5B4A1 /* Sources */,
-				606CA8312E85DC0C00D5B4A1 /* Frameworks */,
-				606CA8322E85DC0C00D5B4A1 /* Resources */,
+				607818582E87361E003F4902 /* Sources */,
+				607818592E87361E003F4902 /* Frameworks */,
+				6078185A2E87361E003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				6078185E2E87361E003F4902 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
+				6078185F2E87361E003F4902 /* enumTests */,
 			);
-			name = "animation projectTests";
+			name = enumTests;
 			packageProductDependencies = (
 			);
-			productName = "animation projectTests";
-			productReference = 606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */;
+			productName = enumTests;
+			productReference = 6078185C2E87361E003F4902 /* enumTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		607818652E87361E003F4902 /* enumUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */;
+			buildConfigurationList = 607818762E87361E003F4902 /* Build configuration list for PBXNativeTarget "enumUITests" */;
 			buildPhases = (
-				606CA83A2E85DC0C00D5B4A1 /* Sources */,
-				606CA83B2E85DC0C00D5B4A1 /* Frameworks */,
-				606CA83C2E85DC0C00D5B4A1 /* Resources */,
+				607818622E87361E003F4902 /* Sources */,
+				607818632E87361E003F4902 /* Frameworks */,
+				607818642E87361E003F4902 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				607818682E87361E003F4902 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
+				607818692E87361E003F4902 /* enumUITests */,
 			);
-			name = "animation projectUITests";
+			name = enumUITests;
 			packageProductDependencies = (
 			);
-			productName = "animation projectUITests";
-			productReference = 606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */;
+			productName = enumUITests;
+			productReference = 607818662E87361E003F4902 /* enumUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		606CA81F2E85DC0800D5B4A1 /* Project object */ = {
+		607818472E87361B003F4902 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					606CA8262E85DC0800D5B4A1 = {
+					6078184E2E87361B003F4902 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					606CA8332E85DC0C00D5B4A1 = {
+					6078185B2E87361E003F4902 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 6078184E2E87361B003F4902;
 					};
-					606CA83D2E85DC0C00D5B4A1 = {
+					607818652E87361E003F4902 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 6078184E2E87361B003F4902;
 					};
 				};
 			};
-			buildConfigurationList = 606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */;
+			buildConfigurationList = 6078184A2E87361B003F4902 /* Build configuration list for PBXProject "enum" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 606CA81E2E85DC0800D5B4A1;
+			mainGroup = 607818462E87361B003F4902;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 606CA8282E85DC0800D5B4A1 /* Products */;
+			productRefGroup = 607818502E87361B003F4902 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 606CA88E2E85DD4100D5B4A1 /* Products */;
-					ProjectRef = 606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				606CA8262E85DC0800D5B4A1 /* animation project */,
-				606CA8332E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */,
+				6078184E2E87361B003F4902 /* enum */,
+				6078185B2E87361E003F4902 /* enumTests */,
+				607818652E87361E003F4902 /* enumUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		606CA8252E85DC0800D5B4A1 /* Resources */ = {
+		6078184D2E87361B003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8322E85DC0C00D5B4A1 /* Resources */ = {
+		6078185A2E87361E003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83C2E85DC0C00D5B4A1 /* Resources */ = {
+		607818642E87361E003F4902 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -246,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		606CA8232E85DC0800D5B4A1 /* Sources */ = {
+		6078184B2E87361B003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8302E85DC0C00D5B4A1 /* Sources */ = {
+		607818582E87361E003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83A2E85DC0C00D5B4A1 /* Sources */ = {
+		607818622E87361E003F4902 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -270,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		6078185E2E87361E003F4902 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 6078184E2E87361B003F4902 /* enum */;
+			targetProxy = 6078185D2E87361E003F4902 /* PBXContainerItemProxy */;
 		};
-		606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		607818682E87361E003F4902 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 6078184E2E87361B003F4902 /* enum */;
+			targetProxy = 607818672E87361E003F4902 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		606CA8462E85DC0C00D5B4A1 /* Debug */ = {
+		6078186E2E87361E003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		606CA8472E85DC0C00D5B4A1 /* Release */ = {
+		6078186F2E87361E003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -404,7 +390,7 @@
 			};
 			name = Release;
 		};
-		606CA8492E85DC0C00D5B4A1 /* Debug */ = {
+		607818712E87361E003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -424,7 +410,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-project";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -432,7 +418,7 @@
 			};
 			name = Debug;
 		};
-		606CA84A2E85DC0C00D5B4A1 /* Release */ = {
+		607818722E87361E003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -452,7 +438,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-project";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -460,7 +446,7 @@
 			};
 			name = Release;
 		};
-		606CA84C2E85DC0C00D5B4A1 /* Debug */ = {
+		607818742E87361E003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -470,16 +456,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enumTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/animation project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/animation project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/enum.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/enum";
 			};
 			name = Debug;
 		};
-		606CA84D2E85DC0C00D5B4A1 /* Release */ = {
+		607818752E87361E003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,16 +475,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enumTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/animation project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/animation project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/enum.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/enum";
 			};
 			name = Release;
 		};
-		606CA84F2E85DC0C00D5B4A1 /* Debug */ = {
+		607818772E87361E003F4902 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -506,16 +492,16 @@
 				DEVELOPMENT_TEAM = W9Z3CDZK39;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enumUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "animation project";
+				TEST_TARGET_NAME = enum;
 			};
 			name = Debug;
 		};
-		606CA8502E85DC0C00D5B4A1 /* Release */ = {
+		607818782E87361E003F4902 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -523,55 +509,55 @@
 				DEVELOPMENT_TEAM = W9Z3CDZK39;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "CTC.animation-projectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = CTC.enumUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "animation project";
+				TEST_TARGET_NAME = enum;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */ = {
+		6078184A2E87361B003F4902 /* Build configuration list for PBXProject "enum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8462E85DC0C00D5B4A1 /* Debug */,
-				606CA8472E85DC0C00D5B4A1 /* Release */,
+				6078186E2E87361E003F4902 /* Debug */,
+				6078186F2E87361E003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */ = {
+		607818702E87361E003F4902 /* Build configuration list for PBXNativeTarget "enum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8492E85DC0C00D5B4A1 /* Debug */,
-				606CA84A2E85DC0C00D5B4A1 /* Release */,
+				607818712E87361E003F4902 /* Debug */,
+				607818722E87361E003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */ = {
+		607818732E87361E003F4902 /* Build configuration list for PBXNativeTarget "enumTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84C2E85DC0C00D5B4A1 /* Debug */,
-				606CA84D2E85DC0C00D5B4A1 /* Release */,
+				607818742E87361E003F4902 /* Debug */,
+				607818752E87361E003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */ = {
+		607818762E87361E003F4902 /* Build configuration list for PBXNativeTarget "enumUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84F2E85DC0C00D5B4A1 /* Debug */,
-				606CA8502E85DC0C00D5B4A1 /* Release */,
+				607818772E87361E003F4902 /* Debug */,
+				607818782E87361E003F4902 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+	rootObject = 607818472E87361B003F4902 /* Project object */;
 }

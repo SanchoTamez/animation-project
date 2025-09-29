@@ -7,41 +7,40 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		606CA8682E85DD4000D5B4A1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 606CA8522E85DD3E00D5B4A1 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
+			remoteGlobalIDString = 606CA8592E85DD3E00D5B4A1;
 			remoteInfo = "animation project";
 		};
-		606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */ = {
+		606CA8722E85DD4000D5B4A1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+			containerPortal = 606CA8522E85DD3E00D5B4A1 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 606CA8262E85DC0800D5B4A1;
+			remoteGlobalIDString = 606CA8592E85DD3E00D5B4A1;
 			remoteInfo = "animation project";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		606CA8272E85DC0800D5B4A1 /* animation project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "animation project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "animation project.xcodeproj"; sourceTree = "<group>"; };
+		606CA85A2E85DD3E00D5B4A1 /* animation project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "animation project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		606CA8672E85DD4000D5B4A1 /* animation projectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		606CA8712E85DD4000D5B4A1 /* animation projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animation projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		606CA8292E85DC0800D5B4A1 /* animation project */ = {
+		606CA85C2E85DD3E00D5B4A1 /* animation project */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "animation project";
 			sourceTree = "<group>";
 		};
-		606CA8372E85DC0C00D5B4A1 /* animation projectTests */ = {
+		606CA86A2E85DD4000D5B4A1 /* animation projectTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "animation projectTests";
 			sourceTree = "<group>";
 		};
-		606CA8412E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		606CA8742E85DD4000D5B4A1 /* animation projectUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "animation projectUITests";
 			sourceTree = "<group>";
@@ -49,21 +48,21 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		606CA8242E85DC0800D5B4A1 /* Frameworks */ = {
+		606CA8572E85DD3E00D5B4A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8312E85DC0C00D5B4A1 /* Frameworks */ = {
+		606CA8642E85DD4000D5B4A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83B2E85DC0C00D5B4A1 /* Frameworks */ = {
+		606CA86E2E85DD4000D5B4A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -73,29 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		606CA81E2E85DC0800D5B4A1 = {
+		606CA8512E85DD3E00D5B4A1 = {
 			isa = PBXGroup;
 			children = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
-				606CA8282E85DC0800D5B4A1 /* Products */,
+				606CA85C2E85DD3E00D5B4A1 /* animation project */,
+				606CA86A2E85DD4000D5B4A1 /* animation projectTests */,
+				606CA8742E85DD4000D5B4A1 /* animation projectUITests */,
+				606CA85B2E85DD3E00D5B4A1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		606CA8282E85DC0800D5B4A1 /* Products */ = {
+		606CA85B2E85DD3E00D5B4A1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				606CA8272E85DC0800D5B4A1 /* animation project.app */,
-				606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */,
-				606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		606CA88E2E85DD4100D5B4A1 /* Products */ = {
-			isa = PBXGroup;
-			children = (
+				606CA85A2E85DD3E00D5B4A1 /* animation project.app */,
+				606CA8672E85DD4000D5B4A1 /* animation projectTests.xctest */,
+				606CA8712E85DD4000D5B4A1 /* animation projectUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,140 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		606CA8262E85DC0800D5B4A1 /* animation project */ = {
+		606CA8592E85DD3E00D5B4A1 /* animation project */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */;
+			buildConfigurationList = 606CA87B2E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */;
 			buildPhases = (
-				606CA8232E85DC0800D5B4A1 /* Sources */,
-				606CA8242E85DC0800D5B4A1 /* Frameworks */,
-				606CA8252E85DC0800D5B4A1 /* Resources */,
+				606CA8562E85DD3E00D5B4A1 /* Sources */,
+				606CA8572E85DD3E00D5B4A1 /* Frameworks */,
+				606CA8582E85DD3E00D5B4A1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8292E85DC0800D5B4A1 /* animation project */,
+				606CA85C2E85DD3E00D5B4A1 /* animation project */,
 			);
 			name = "animation project";
 			packageProductDependencies = (
 			);
 			productName = "animation project";
-			productReference = 606CA8272E85DC0800D5B4A1 /* animation project.app */;
+			productReference = 606CA85A2E85DD3E00D5B4A1 /* animation project.app */;
 			productType = "com.apple.product-type.application";
 		};
-		606CA8332E85DC0C00D5B4A1 /* animation projectTests */ = {
+		606CA8662E85DD4000D5B4A1 /* animation projectTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */;
+			buildConfigurationList = 606CA87E2E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */;
 			buildPhases = (
-				606CA8302E85DC0C00D5B4A1 /* Sources */,
-				606CA8312E85DC0C00D5B4A1 /* Frameworks */,
-				606CA8322E85DC0C00D5B4A1 /* Resources */,
+				606CA8632E85DD4000D5B4A1 /* Sources */,
+				606CA8642E85DD4000D5B4A1 /* Frameworks */,
+				606CA8652E85DD4000D5B4A1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				606CA8692E85DD4000D5B4A1 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8372E85DC0C00D5B4A1 /* animation projectTests */,
+				606CA86A2E85DD4000D5B4A1 /* animation projectTests */,
 			);
 			name = "animation projectTests";
 			packageProductDependencies = (
 			);
 			productName = "animation projectTests";
-			productReference = 606CA8342E85DC0C00D5B4A1 /* animation projectTests.xctest */;
+			productReference = 606CA8672E85DD4000D5B4A1 /* animation projectTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */ = {
+		606CA8702E85DD4000D5B4A1 /* animation projectUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */;
+			buildConfigurationList = 606CA8812E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */;
 			buildPhases = (
-				606CA83A2E85DC0C00D5B4A1 /* Sources */,
-				606CA83B2E85DC0C00D5B4A1 /* Frameworks */,
-				606CA83C2E85DC0C00D5B4A1 /* Resources */,
+				606CA86D2E85DD4000D5B4A1 /* Sources */,
+				606CA86E2E85DD4000D5B4A1 /* Frameworks */,
+				606CA86F2E85DD4000D5B4A1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */,
+				606CA8732E85DD4000D5B4A1 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				606CA8412E85DC0C00D5B4A1 /* animation projectUITests */,
+				606CA8742E85DD4000D5B4A1 /* animation projectUITests */,
 			);
 			name = "animation projectUITests";
 			packageProductDependencies = (
 			);
 			productName = "animation projectUITests";
-			productReference = 606CA83E2E85DC0C00D5B4A1 /* animation projectUITests.xctest */;
+			productReference = 606CA8712E85DD4000D5B4A1 /* animation projectUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		606CA81F2E85DC0800D5B4A1 /* Project object */ = {
+		606CA8522E85DD3E00D5B4A1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					606CA8262E85DC0800D5B4A1 = {
+					606CA8592E85DD3E00D5B4A1 = {
 						CreatedOnToolsVersion = 16.4;
 					};
-					606CA8332E85DC0C00D5B4A1 = {
+					606CA8662E85DD4000D5B4A1 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 606CA8592E85DD3E00D5B4A1;
 					};
-					606CA83D2E85DC0C00D5B4A1 = {
+					606CA8702E85DD4000D5B4A1 = {
 						CreatedOnToolsVersion = 16.4;
-						TestTargetID = 606CA8262E85DC0800D5B4A1;
+						TestTargetID = 606CA8592E85DD3E00D5B4A1;
 					};
 				};
 			};
-			buildConfigurationList = 606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */;
+			buildConfigurationList = 606CA8552E85DD3E00D5B4A1 /* Build configuration list for PBXProject "animation project" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 606CA81E2E85DC0800D5B4A1;
+			mainGroup = 606CA8512E85DD3E00D5B4A1;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 606CA8282E85DC0800D5B4A1 /* Products */;
+			productRefGroup = 606CA85B2E85DD3E00D5B4A1 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 606CA88E2E85DD4100D5B4A1 /* Products */;
-					ProjectRef = 606CA88D2E85DD4100D5B4A1 /* animation project.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				606CA8262E85DC0800D5B4A1 /* animation project */,
-				606CA8332E85DC0C00D5B4A1 /* animation projectTests */,
-				606CA83D2E85DC0C00D5B4A1 /* animation projectUITests */,
+				606CA8592E85DD3E00D5B4A1 /* animation project */,
+				606CA8662E85DD4000D5B4A1 /* animation projectTests */,
+				606CA8702E85DD4000D5B4A1 /* animation projectUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		606CA8252E85DC0800D5B4A1 /* Resources */ = {
+		606CA8582E85DD3E00D5B4A1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8322E85DC0C00D5B4A1 /* Resources */ = {
+		606CA8652E85DD4000D5B4A1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83C2E85DC0C00D5B4A1 /* Resources */ = {
+		606CA86F2E85DD4000D5B4A1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -246,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		606CA8232E85DC0800D5B4A1 /* Sources */ = {
+		606CA8562E85DD3E00D5B4A1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA8302E85DC0C00D5B4A1 /* Sources */ = {
+		606CA8632E85DD4000D5B4A1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		606CA83A2E85DC0C00D5B4A1 /* Sources */ = {
+		606CA86D2E85DD4000D5B4A1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -270,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		606CA8362E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		606CA8692E85DD4000D5B4A1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA8352E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 606CA8592E85DD3E00D5B4A1 /* animation project */;
+			targetProxy = 606CA8682E85DD4000D5B4A1 /* PBXContainerItemProxy */;
 		};
-		606CA8402E85DC0C00D5B4A1 /* PBXTargetDependency */ = {
+		606CA8732E85DD4000D5B4A1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 606CA8262E85DC0800D5B4A1 /* animation project */;
-			targetProxy = 606CA83F2E85DC0C00D5B4A1 /* PBXContainerItemProxy */;
+			target = 606CA8592E85DD3E00D5B4A1 /* animation project */;
+			targetProxy = 606CA8722E85DD4000D5B4A1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		606CA8462E85DC0C00D5B4A1 /* Debug */ = {
+		606CA8792E85DD4000D5B4A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -347,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		606CA8472E85DC0C00D5B4A1 /* Release */ = {
+		606CA87A2E85DD4000D5B4A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -404,7 +390,7 @@
 			};
 			name = Release;
 		};
-		606CA8492E85DC0C00D5B4A1 /* Debug */ = {
+		606CA87C2E85DD4000D5B4A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -432,7 +418,7 @@
 			};
 			name = Debug;
 		};
-		606CA84A2E85DC0C00D5B4A1 /* Release */ = {
+		606CA87D2E85DD4000D5B4A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -460,7 +446,7 @@
 			};
 			name = Release;
 		};
-		606CA84C2E85DC0C00D5B4A1 /* Debug */ = {
+		606CA87F2E85DD4000D5B4A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -479,7 +465,7 @@
 			};
 			name = Debug;
 		};
-		606CA84D2E85DC0C00D5B4A1 /* Release */ = {
+		606CA8802E85DD4000D5B4A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -498,7 +484,7 @@
 			};
 			name = Release;
 		};
-		606CA84F2E85DC0C00D5B4A1 /* Debug */ = {
+		606CA8822E85DD4000D5B4A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -515,7 +501,7 @@
 			};
 			name = Debug;
 		};
-		606CA8502E85DC0C00D5B4A1 /* Release */ = {
+		606CA8832E85DD4000D5B4A1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -535,43 +521,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		606CA8222E85DC0800D5B4A1 /* Build configuration list for PBXProject "animation project" */ = {
+		606CA8552E85DD3E00D5B4A1 /* Build configuration list for PBXProject "animation project" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8462E85DC0C00D5B4A1 /* Debug */,
-				606CA8472E85DC0C00D5B4A1 /* Release */,
+				606CA8792E85DD4000D5B4A1 /* Debug */,
+				606CA87A2E85DD4000D5B4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA8482E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */ = {
+		606CA87B2E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation project" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA8492E85DC0C00D5B4A1 /* Debug */,
-				606CA84A2E85DC0C00D5B4A1 /* Release */,
+				606CA87C2E85DD4000D5B4A1 /* Debug */,
+				606CA87D2E85DD4000D5B4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84B2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */ = {
+		606CA87E2E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84C2E85DC0C00D5B4A1 /* Debug */,
-				606CA84D2E85DC0C00D5B4A1 /* Release */,
+				606CA87F2E85DD4000D5B4A1 /* Debug */,
+				606CA8802E85DD4000D5B4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		606CA84E2E85DC0C00D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */ = {
+		606CA8812E85DD4000D5B4A1 /* Build configuration list for PBXNativeTarget "animation projectUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				606CA84F2E85DC0C00D5B4A1 /* Debug */,
-				606CA8502E85DC0C00D5B4A1 /* Release */,
+				606CA8822E85DD4000D5B4A1 /* Debug */,
+				606CA8832E85DD4000D5B4A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 606CA81F2E85DC0800D5B4A1 /* Project object */;
+	rootObject = 606CA8522E85DD3E00D5B4A1 /* Project object */;
 }
