@@ -9,8 +9,13 @@ import SwiftUI
 
 struct SwiftUIView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("tab 2 view")
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(Color.mint)
     }
+        
 }
 
 #Preview {
